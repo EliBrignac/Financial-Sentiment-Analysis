@@ -5,7 +5,6 @@ Sentiment analysis of financial texts
     - [Table of Contents](#table-of-contents)
   - [Summary](#summary)
       - [Figure1:](#figure1)
-          - [Here is a table of other methods of classification that I found in another kaggle submission, compared to my methods. All other models found were for ternary classification (source HERE).](#here-is-a-table-of-other-methods-of-classification-that-i-found-in-another-kaggle-submission-compared-to-my-methods-all-other-models-found-were-for-ternary-classification-source-here)
   - [Data Examples](#data-examples)
   - [Ternary Classification Model](#ternary-classification-model)
   - [Binary Classification Model](#binary-classification-model)
