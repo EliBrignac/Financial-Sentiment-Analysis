@@ -1,5 +1,6 @@
 # Financial-Sentiment-Analysis
-Sentiment analysis of financial texts
+Sentiment analysis of financial texts, Python Notebooks of each model are included in the [classification](https://github.com/EliBrignac/Financial-Sentiment-Analysis/tree/main/classification) folder in this repository.
+
 ### Table of Contents
 - [Financial-Sentiment-Analysis](#financial-sentiment-analysis)
     - [Table of Contents](#table-of-contents)
